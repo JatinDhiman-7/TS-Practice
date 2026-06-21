@@ -21,6 +21,7 @@ export default function Home() {
       <button onClick={handleClick}>
         show toast
       </button>
+      <h1>First Commit in feature one</h1>
 
       <Toast message="Data save successfully!" show={showToast}/>
     </div>
